@@ -15,7 +15,7 @@ The main goal of this document is to explain how to download dependencies and pr
 
 ###Changing Env Properties
 
-+ Setting database (des,hom,prod)
++ Setting database (dev, staging, prod)
 
         #How to connect to different database depending on environment
 

@@ -1,10 +1,10 @@
-Satellite - Certificates
+Project - Certificates
 ---
 
 ### Apple - Sandbox - Development:
 
 + Private Key filename: aps_development_privatekey.p12
-+ Private Key password: Loducca1234!@#$
++ Private Key password: YourPassword
 + Exporting certificates in order to work with Amazon SNS
 
         #Export you private key to aps_development_privatekey.p12 using KeyChain Access
@@ -40,7 +40,7 @@ Satellite - Certificates
 ### Apple - Production:
 
 + Private Key filename: aps_production_privatekey.p12
-+ Private Key password: Loducca1234!@#$
++ Private Key password: YourPassword
 + Exporting certificates in order to work with Amazon SNS
 
         #Export you private key to aps_production_privatekey.p12 using KeyChain Access
